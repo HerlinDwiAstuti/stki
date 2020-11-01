@@ -29,8 +29,6 @@ h2 {
 <a href="search.php">Search1</a> |
 <a href="search1.php">Search2</a> |
 
-
-
 </div>
 <hr/>
 </body>
